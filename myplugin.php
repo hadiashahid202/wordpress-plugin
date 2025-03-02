@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: aurora framework
-Plugin URI: http://yourwebsite.com
+Plugin Name: Aurora Framework
+Plugin URI: https://fahidjavid.com
 Description: A simple custom WordPress plugin.
 Version: 1.0
 Author: Hadia Shahid
-Author URI: http://yourwebsite.com
+Author URI: https://fahidjavid.com
 License: GPL2
 */
 
