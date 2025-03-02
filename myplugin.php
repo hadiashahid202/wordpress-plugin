@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: My Basic Plugin
+Plugin Name: aurora framework
 Plugin URI: http://yourwebsite.com
 Description: A simple custom WordPress plugin.
 Version: 1.0
-Author: Your Name
+Author: Hadia Shahid
 Author URI: http://yourwebsite.com
 License: GPL2
 */
